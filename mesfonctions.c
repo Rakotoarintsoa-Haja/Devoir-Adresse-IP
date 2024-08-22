@@ -1,4 +1,4 @@
-#include "copy_prototype.h"
+#include "prototype.h"
 void presentation();
 void presentation1(int A, int B, int C, int D);
 void comparation(int A, int B, int C, int D);
