@@ -1,4 +1,4 @@
-#include "copy_prototype.h"
+#include "prototype.h"
 int main() {
     displayHTML();
     return 0;
